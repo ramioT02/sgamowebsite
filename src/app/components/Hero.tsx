@@ -1,5 +1,5 @@
 import { motion } from 'motion/react';
-import heroImage from 'figma:asset/85f484eeeb7f7c1ecc6c83f3883c4e055bfc9574.png';
+import heroImage from '../../assets/copertina.png';
 
 export function Hero() {
   const scrollToMenu = () => {

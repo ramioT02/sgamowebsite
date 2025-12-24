@@ -14,35 +14,35 @@ interface MenuItem {
 const menuItems: MenuItem[] = [
   {
     id: 1,
-    name: "SGAMO BURGER",
-    description: "Il nostro burger signature con doppia carne e salsa speciale",
-    price: "€8.90",
+    name: "SMASH BURGER",
+    description: "Il nostro smash burger signature con doppia carne, cheddar e salsa sgamo",
+    price: "€10",
     image: "https://images.unsplash.com/photo-1658822118306-8ee34f118600?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkZWxpY2lvdXMlMjBidXJnZXIlMjBjbG9zZXVwfGVufDF8fHx8MTc2NjU3NDA2NXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
     bgColor: "#E3654A",
     textColor: "#4A7C59"
   },
   {
     id: 2,
-    name: "PANINO BAGUÈ",
-    description: "Panino croccante con ingredienti freschi e ricercati",
-    price: "€7.50",
+    name: "CHICKEN BURGER",
+    description: "Panino con sovracoscia coroccante, insalata, pomodoro e mayo sgamo",
+    price: "€10",
     image: "https://images.unsplash.com/photo-1636115502138-4b0340faf53f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwYW5pbmklMjBzYW5kd2ljaCUyMGl0YWxpYW58ZW58MXx8fHwxNzY2NTc0MDY1fDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
     bgColor: "#F5BFB8",
     textColor: "#F5E942"
   },
   {
     id: 3,
-    name: "PASTA AL MOMENTO",
-    description: "Pasta fresca preparata con ricette tradizionali",
-    price: "€9.90",
-    image: "https://images.unsplash.com/photo-1662197480393-2a82030b7b83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwYXN0YSUyMGZvb2QlMjBpdGFsaWFufGVufDF8fHx8MTc2NjU3NDA2NXww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
+    name: "CORNETTO ISCHITANO",
+    description: "cornetto ischitano da farcire con tutto ciò che desideri",
+    price: "da €2.50",
+    image: "https://images.unsplash.com/photo-1655633584060-c875b9821061?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkZXNzZXJ0JTIwY2FrZSUyMHN3ZWV0fGVufDF8fHx8MTc2NjUwNDg5MHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
     bgColor: "#A8D5E2",
     textColor: "#E3654A"
   },
   {
     id: 4,
-    name: "DOLCE FINALE",
-    description: "Dessert artigianale per chiudere in dolcezza",
+    name: "PANGOCCIOLO",
+    description: "Fantastico pan gocciolo da farcire con tutte le creme che puoi immaginare",
     price: "€5.50",
     image: "https://images.unsplash.com/photo-1655633584060-c875b9821061?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkZXNzZXJ0JTIwY2FrZSUyMHN3ZWV0fGVufDF8fHx8MTc2NjUwNDg5MHww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral",
     bgColor: "#F5E942",

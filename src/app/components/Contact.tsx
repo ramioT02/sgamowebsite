@@ -5,13 +5,13 @@ const contactInfo = [
   {
     icon: MapPin,
     title: "Dove Siamo",
-    content: "Via Roma 123, 00100 Roma",
+    content: "Via San Giuseppe 2, Maglie",
     color: "#E3654A"
   },
   {
     icon: Phone,
     title: "Telefono",
-    content: "+39 06 1234567",
+    content: "+39",
     color: "#4A7C59"
   },
   {
@@ -23,7 +23,7 @@ const contactInfo = [
   {
     icon: Clock,
     title: "Orari",
-    content: "Lun-Dom: 11:00 - 23:00",
+    content: "Lun-Dom: 19:00 - 12:00",
     color: "#F5BFB8"
   }
 ];

@@ -4,7 +4,7 @@ import { ChefHat, Clock, Utensils } from 'lucide-react';
 const features = [
   {
     icon: ChefHat,
-    title: "Chef Esperti",
+    title: "Team Esperto",
     description: "Il nostro team prepara ogni piatto con passione",
     color: "#E3654A"
   },
